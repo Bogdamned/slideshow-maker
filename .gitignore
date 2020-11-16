@@ -1,0 +1,10 @@
+.vscode
+photos/booking
+helper.go
+*.avi
+*avi.idx_
+*.txt
+*.jpg
+*json
+!*config.json
+!photos/png

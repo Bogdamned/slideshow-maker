@@ -1,0 +1,9 @@
+{
+    "width" : 1280,
+    "height" : 720,
+    "fps" : 60, 
+    "slideDur" : 3, 
+    "percent" : 0.1,
+    "movies_directory": "",
+    "limit": 2
+}
